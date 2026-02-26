@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Our research interest includes Statistical Physics of Soft and Living Matter by using theory and simulations.
+Our research interest includes Statistical Physics of Soft and Living Matter by using theory and simulations, Focusing but not limited to 
+1. Geometry and topology topics such as topological defects, confinements, bio-membranes, colloids, knots...
+2. Non-equilibrium systems: active matter, macromolecules and biomacromolecules dynamics
 
 # 💡Hilighted Publications 
 
