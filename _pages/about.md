@@ -21,15 +21,7 @@ Our research interest includes Statistical Physics of Soft and Living Matter by 
 1. Geometry and topology topics such as topological defects, confinements, knots, bio-membranes, colloids, ...
 2. Non-equilibrium systems: active matter, macromolecules and biomacromolecules dynamics
 
-# 💡Hilighted Publications 
-
-1. Li, Y.; Wang, Y.; Geng, Y.; Liu, W.; Ye, F.; Chen, J. Z. Y. Hierarchical Ground-State Crystals Underlying Hertzian Quasicrystals. Nat. Commun. 2025, 16 (1), 11269. https://doi.org/10.1038/s41467-025-66158-0.
-
-2. Xie, H.; Liu, W.; Lu, Z.; Chen, J. Z. Y.; Li, Y. Competing Hexagonal and Square Lattices on a Spherical Surface. Nano Lett. 2025, 25 (3), 1193–1198. https://doi.org/10.1021/acs.nanolett.4c05865.
-
-3. Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. https://doi.org/10.1016/j.newton.2025.100291.
-
-4. Li, Y.; ten Wolde, P. R. Shape Transformations of Vesicles Induced by Swim Pressure. Phys. Rev. Lett. 2019, 123 (14), 148003. https://doi.org/10.1103/PhysRevLett.123.148003.
+# 🔥 News
 
 # 🔥 Open Positions
 
@@ -46,7 +38,17 @@ We invite applications for 1–2 Ph.D. positions. We welcome self-motivated cand
     <br>
 </p>
 
-# 🔥 News
+
+
+# 💡Hilighted Publications 
+
+1. Li, Y.; Wang, Y.; Geng, Y.; Liu, W.; Ye, F.; Chen, J. Z. Y. Hierarchical Ground-State Crystals Underlying Hertzian Quasicrystals. Nat. Commun. 2025, 16 (1), 11269. https://doi.org/10.1038/s41467-025-66158-0.
+
+2. Xie, H.; Liu, W.; Lu, Z.; Chen, J. Z. Y.; Li, Y. Competing Hexagonal and Square Lattices on a Spherical Surface. Nano Lett. 2025, 25 (3), 1193–1198. https://doi.org/10.1021/acs.nanolett.4c05865.
+
+3. Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. https://doi.org/10.1016/j.newton.2025.100291.
+
+4. Li, Y.; ten Wolde, P. R. Shape Transformations of Vesicles Induced by Swim Pressure. Phys. Rev. Lett. 2019, 123 (14), 148003. https://doi.org/10.1103/PhysRevLett.123.148003.
 
 # 📝 Full Publications 
 (1) Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. https://doi.org/10.1016/j.newton.2025.100291.
