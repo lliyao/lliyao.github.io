@@ -36,6 +36,14 @@ We seek to appoint 1–2 postdoctoral researchers to investigate the statistical
 We invite applications for 1–2 Ph.D. positions. We welcome self-motivated candidates from all backgrounds, including physics, chemistry, biology, and related fields. International applicants (non-Chinese citizens) are particularly encouraged to apply.
 
 
+# People
+
+<p align="center">
+    <br>
+    <img src="images/groupPhoto.jpg" width="100%"/>
+    <br>
+</p>
+
 # 🔥 News
 
 # 📝 Full Publications 
