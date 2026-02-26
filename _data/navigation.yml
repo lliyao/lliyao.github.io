@@ -7,13 +7,13 @@ main:
     url: "/#-news"
 
   - title: "Peoples"
-    url: "/#-Peoples"    
+    url: "/#-peoples"    
 
   - title: "Publications"
     url: "/#-hilighted-publications"
 
-  - title: "Opens"
-    url: "/#-Open-Positions"
+  - title: "Hiring"
+    url: "/#-open-positions"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
