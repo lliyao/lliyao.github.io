@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Our research interest includes Statistical Physics of Soft and Living Matter by using theory and simulations, Focusing but not limited to 
-1. Geometry and topology topics such as topological defects, confinements, knots, bio-membranes, colloids, ...
-2. Non-equilibrium systems: active matter, macromolecules and biomacromolecules dynamics
+Our research focuses on the statistical physics of soft and living matter, using theoretical and computational approaches.
+
+Specific areas of interest include, but are not limited to:
+1. Geometric and topological phenomena: topological defects, confinements, knots, bio-membranes, colloids, liquid crystals
+2. Non-equilibrium statistical physics: active matter, dynamics of macromolecules and biomacromolecules
 
 # 🔥 News
 
@@ -30,7 +32,7 @@ We seek to appoint 1–2 postdoctoral researchers to investigate the statistical
 We invite applications for 1–2 Ph.D. positions. We welcome self-motivated candidates from all backgrounds, including physics, chemistry, biology, and related fields. International applicants (non-Chinese citizens) are particularly encouraged to apply.
 
 
-# Peoples
+# 😀 Peoples
 
 <p align="center">
     <br>
