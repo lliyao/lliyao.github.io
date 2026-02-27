@@ -19,7 +19,7 @@ redirect_from:
 
 Our research focuses on the statistical physics of soft and living matter, using theoretical and computational approaches.
 
-Specific areas of interest include, but are not limited to:
+Current interests include, but are not limited to:
 1. Geometric and topological phenomena: topological defects, confinements, knots, bio-membranes, colloids, liquid crystals
 2. Non-equilibrium statistical physics: active matter, dynamics of macromolecules and biomacromolecules
 
@@ -27,9 +27,11 @@ Specific areas of interest include, but are not limited to:
 
 # 🔥 Open Positions
 
-We seek to appoint 1–2 postdoctoral researchers to investigate the statistical physics of soft and living matter. Candidates with prior experience in Monte Carlo methods, molecular dynamics simulations, and high-performance computing tools (e.g., LAMMPS, GROMACS) are particularly encouraged to apply.
+We seek to appoint 1–2 postdoctoral researchers to investigate the statistical physics of soft and living matter. Candidates with prior experience in Monte Carlo methods, molecular dynamics simulations, and high-performance computing tools (e.g., LAMMPS, GROMACS) are particularly encouraged to apply. Research directions may align with our ongoing projects or be developed based on mutual agreement. Postdoctoral positions are initially for two-year with the option to extend for an additional year. We offer a competitive salary package. 
 
 We invite applications for 1–2 Ph.D. positions. We welcome self-motivated candidates from all backgrounds, including physics, chemistry, biology, and related fields. International applicants (non-Chinese citizens) are particularly encouraged to apply.
+
+Applications will be reviewed on a rolling basis until the positions are filled. Interested candidates should submit a cover letter outlining their research interests and background, along with a current CV, to liyao@nankai.edu.cn 
 
 
 # 😀 Peoples
