@@ -24,9 +24,9 @@ Current interests include, but are not limited to:
 2. Non-equilibrium statistical physics: active matter, dynamics of macromolecules and biomacromolecules
 
 
-<img src="images/NanoLett2025.png" height="200">
-<img src="images/SoftMatter2013.jpg" height="200">
-<img src="images/CommunBio2025.png" height="200">
+<img src="images/NanoLett2025.png" height="100">
+<img src="images/SoftMatter2013.jpg" height="100">
+<img src="images/CommunBio2025.png" height="100">
 
 
 
