@@ -23,11 +23,11 @@ Current interests include, but are not limited to:
 1. Geometric and topological phenomena: topological defects, confinements, knots, bio-membranes, colloids, liquid crystals
 2. Non-equilibrium statistical physics: active matter, dynamics of macromolecules and biomacromolecules
 
-<body>
+<div class="multicolumn">
 <div class='left'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SoftMatter2013.jpg' alt="sym" width="30%"></div></div>
 <div class='mid'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NanoLett2025.png' alt="sym" width="30%"></div></div>
 <div class='right'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CommunBio2025.png' alt="sym" width="30%"></div></div>
-</body>
+</div>
 
 # 🔥 News
 
