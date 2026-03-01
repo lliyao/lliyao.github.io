@@ -25,7 +25,8 @@ Current interests include, but are not limited to:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/SoftMatter2013.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NanoLett2025.png' alt="sym" width="80%"></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CommunBio.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CommunBio2025.png' alt="sym" width="80%"></div></div>
+</div>
 </div>
 </div>
 
