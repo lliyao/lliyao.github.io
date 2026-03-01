@@ -45,7 +45,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 💡Hilighted Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/NatureCommun2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Commun 2025</div><img src='images/NatureCommun2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
