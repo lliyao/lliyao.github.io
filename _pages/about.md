@@ -45,8 +45,14 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 💡Hilighted Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/NatureCommun2025.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 1. Li, Y.; Wang, Y.; Geng, Y.; Liu, W.; Ye, F.; Chen, J. Z. Y. Hierarchical Ground-State Crystals Underlying Hertzian Quasicrystals. Nat. Commun. 2025, 16 (1), 11269. [[HTML]](https://doi.org/10.1038/s41467-025-66158-0)
+
+</div>
+</div>
 
 2. Xie, H.; Liu, W.; Lu, Z.; Chen, J. Z. Y.; Li, Y. Competing Hexagonal and Square Lattices on a Spherical Surface. Nano Lett. 2025, 25 (3), 1193–1198. [[HTML]](https://doi.org/10.1021/acs.nanolett.4c05865)
 
