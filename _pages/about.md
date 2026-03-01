@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<img src="images/nankai.png" width="20%">
+
 Our research focuses on the statistical physics of soft and living matter, using theoretical and computational approaches.
 
 Current interests include, but are not limited to:
