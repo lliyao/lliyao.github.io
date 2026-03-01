@@ -96,5 +96,25 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 - *2009 - 2014*, Tsinghua University, Ph.D. of Physics
 - *2005 - 2009*, Shanghai Jiao Tong University, Bachelor of Applied Physics 
 
-# 💬 Invited Talks
+# Professional Appointments
+- 2021-Present Nankai Universtiy, Associate Professor
+- 2020-2021 Università della Svizzera italiana(USI), Researcher
+- 2018-2020 TU Delft, Netherlands, Postdoc
+- 2014-2018 AMOLF, Netherlands, Postdoc
+- 2014-2014 Institute of Physics, Chinese Academy of Sciences, Postdoc
+- 2013-2014 University of Waterloo, Canada, Visiting Researcher
 
+# 💬 Invited Talks
+- 2025, Soft Matter and Biophysics Seminar, Institute of Theoretical Physics, Chinese Academy of Science, Beijing, China
+- 2025, Department of Statistics and Center for complex flows and soft matter research, Southern University of Science and Technology, Shenzhen, Guangdong, China 
+- 2025, China University of Mining and Technology, Xuzhou, Jiangsu, China 
+- 2025, Department of Physics, Fudan University, Shanghai, China 
+- 2025, School of Physics, Shanghai Jiao Tong University, Shanghai, China 
+- 2025, School of Phyiscs, East China Normal University, Shanghai, China 
+- 2025, School of Physics, Zhejiang Normal University, Jinhua, Zhejiang, China
+- 2025, School of Chemistry, Nanjing University, Nanjing, Jiangsu, China
+- 2025, School of Physics, Nanjing Normal University, Nanjing, Jiangsu, China
+- 2025, National Conference on Complexity (Plenary Lecture), Zhenjiang, Jiangsu, China
+- 2025, School of Physics, Northeast Normal University, Changchun, Jilin, China
+- 2024, 13th National Conference on Soft and living matter physics, Xi'an, Shaanxi, China
+- 2024, Department of Physics, Tianjin University, Tianjin, China
