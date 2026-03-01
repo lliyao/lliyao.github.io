@@ -49,16 +49,16 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 <div class='paper-box-text' markdown="1">
 
 
-1. Li, Y.; Wang, Y.; Geng, Y.; Liu, W.; Ye, F.; Chen, J. Z. Y. Hierarchical Ground-State Crystals Underlying Hertzian Quasicrystals. Nat. Commun. 2025, 16 (1), 11269. [[HTML]](https://doi.org/10.1038/s41467-025-66158-0)
+- Li, Y.; Wang, Y.; Geng, Y.; Liu, W.; Ye, F.; Chen, J. Z. Y. Hierarchical Ground-State Crystals Underlying Hertzian Quasicrystals. Nat. Commun. 2025, 16 (1), 11269. [[HTML]](https://doi.org/10.1038/s41467-025-66158-0)
 
 </div>
 </div>
 
-2. Xie, H.; Liu, W.; Lu, Z.; Chen, J. Z. Y.; Li, Y. Competing Hexagonal and Square Lattices on a Spherical Surface. Nano Lett. 2025, 25 (3), 1193–1198. [[HTML]](https://doi.org/10.1021/acs.nanolett.4c05865)
+- Xie, H.; Liu, W.; Lu, Z.; Chen, J. Z. Y.; Li, Y. Competing Hexagonal and Square Lattices on a Spherical Surface. Nano Lett. 2025, 25 (3), 1193–1198. [[HTML]](https://doi.org/10.1021/acs.nanolett.4c05865)
 
-3. Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. [[HTML]](https://doi.org/10.1016/j.newton.2025.100291)
+- Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. [[HTML]](https://doi.org/10.1016/j.newton.2025.100291)
 
-4. Li, Y.; ten Wolde, P. R. Shape Transformations of Vesicles Induced by Swim Pressure. Phys. Rev. Lett. 2019, 123 (14), 148003. [[HTML]](https://doi.org/10.1103/PhysRevLett.123.148003)
+- Li, Y.; ten Wolde, P. R. Shape Transformations of Vesicles Induced by Swim Pressure. Phys. Rev. Lett. 2019, 123 (14), 148003. [[HTML]](https://doi.org/10.1103/PhysRevLett.123.148003)
 
 # 📝 Full Publications 
 (1) Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. [[HTML]](https://doi.org/10.1016/j.newton.2025.100291)
