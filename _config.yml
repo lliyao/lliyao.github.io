@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yao Li"
   avatar           : "images/profile.jpg"
-  bio              : "Associate Professor \n Nankai University"
+  bio              : "Associate Professor <br> Nankai University"
   location         : "Tianjin, China"
   employer         :
   pubmed           : 
