@@ -82,7 +82,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 📝 Full Publications 
-(18) Yuan, Z; Li, Y. Rounded hard squares confined in a circle. Soft Matter 2026 (Accepted)
+(18) Yuan, Z; Li, Y. Rounded hard squares confined in a circle. Soft Matter 2026 (Accepted) [[HTML]](https://doi.org/10.1039/D6SM00016A)
 
 (17) Du, Y.; Cao, Y.; Liu, W.; Li, Y. Collective Behavior of the Non-Reciprocal Vision Cone XY Lattice-Gas Model. Newton 2026, 2, 100291. [[HTML]](https://doi.org/10.1016/j.newton.2025.100291)
 
