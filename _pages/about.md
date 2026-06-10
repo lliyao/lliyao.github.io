@@ -54,7 +54,13 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 # 💡Highlighted Publications 
 
-Wang, X; Guo, J; Li, Y. Chiral Packings in Cylinders are Ultrasensitive to Confinement Deformation. Nat. Commun. 2026, Accepted.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2026</div><img src='images/NatureCommun2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Wang, X; Guo, J; Li, Y. Chiral Packings in Cylinders are Ultrasensitive to Confinement Deformation. Nat. Commun. 2026, Accepted.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2025</div><img src='images/NatureCommun2025.png' alt="sym" width="50%"></div></div>
