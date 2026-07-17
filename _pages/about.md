@@ -54,6 +54,13 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 # 💡Highlighted Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2026</div><img src='images/NatureCommun2026.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Wang, X; Guo, J; Li, Y. Chiral packings in cylinders are ultrasensitive to confinement deformation. Nat. Commun. 2026, 17，6398. [[HTML]](https://www.nature.com/articles/s41467-026-74709-2)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2025</div><img src='images/NatureCommun2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 - Li, Y.; Wang, Y.; Geng, Y.; Liu, W.; Ye, F.; Chen, J. Z. Y. Hierarchical Ground-State Crystals Underlying Hertzian Quasicrystals. Nat. Commun. 2025, 16 (1), 11269. [[HTML]](https://doi.org/10.1038/s41467-025-66158-0)
@@ -82,7 +89,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 📝 Full Publications 
-(19) Wang, X; Guo, J; Li, Y. Nat. Commun. 2026, Accepted.
+(19) Wang, X; Guo, J; Li, Y. Chiral packings in cylinders are ultrasensitive to confinement deformation. Nat. Commun. 2026, 17，6398. [[HTML]](https://www.nature.com/articles/s41467-026-74709-2)
 
 (18) Yuan, Z; Li, Y. Rounded hard squares confined in a circle. Soft Matter 2026, 22, 3119. [[HTML]](https://doi.org/10.1039/D6SM00008H)
 
