@@ -130,7 +130,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 # 🎖 Honors and Awards
 
 
-# 📖 Educations
+# 📖 Education
 - *2009 - 2014*, Tsinghua University, Ph.D. of Physics
 - *2005 - 2009*, Shanghai Jiao Tong University, Bachelor of Applied Physics 
 
