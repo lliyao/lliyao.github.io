@@ -143,12 +143,23 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 - 2013-2014 University of Waterloo, Canada, Visiting Researcher
 
 # 💬 Invited Talks
+- 2026, Soft Matter Seminar, Institute of heoretical Physics, Chinese Academy of Science, Beijing, China
+- 2026, School of Physics, Shandong University, Qingdao, China
+- 2026, Soft Matter and Biophysics Seminar, Institute of Theoretical Physics, Chinese Academy of Science, Beijing, China
+- 2026, School of Physics, Shandong Normal University, Jinan, China
+- 2026, School of Physics, Wuhan University, Wuhan, China
+- 2026, School of Physics, HuaZhong University of Science and Technology, Wuhan, China
+- 2026, School of Material and Chemistry, Soochow University, Suzhou, China
+- 2026, Department of Physics, Beijing Jiao Tong University, Beijing, China
+- 2026, Department of Physics, Tsinghua University, Beijing, China
 - 2025, Soft Matter and Biophysics Seminar, Institute of Theoretical Physics, Chinese Academy of Science, Beijing, China
 - 2025, Department of Statistics and Center for complex flows and soft matter research, Southern University of Science and Technology, Shenzhen, Guangdong, China 
 - 2025, China University of Mining and Technology, Xuzhou, Jiangsu, China 
+- 2025, Electrostatics of Soft Matter Meeting, Nanjing, China
 - 2025, Department of Physics, Fudan University, Shanghai, China 
 - 2025, School of Physics, Shanghai Jiao Tong University, Shanghai, China 
 - 2025, School of Phyiscs, East China Normal University, Shanghai, China 
+- 2025, Wenzhou Institute, University of Chinese Academy of Sciences, Wenzhou, China
 - 2025, School of Physics, Zhejiang Normal University, Jinhua, Zhejiang, China
 - 2025, School of Chemistry, Nanjing University, Nanjing, Jiangsu, China
 - 2025, School of Physics, Nanjing Normal University, Nanjing, Jiangsu, China
