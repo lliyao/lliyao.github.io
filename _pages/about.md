@@ -94,7 +94,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 📝 Full Publications 
-(20) Shen, B; Wang, B; Wang X; Zhou, J*, Lin, S; Xiong, L; Liu, S; Yang, X; Shi, Y; Qian, Q; Hao, B; Fan, M; Ji, H; Li, Y*; Yan, C; Qian, T*. Exploiting Micellization Behavior and Its Solubilization Capacity to Construct Highly Stable and Anti-Self-Discharge Aqueous Electrolytes. Nat. Commun. 2026, Accepted in principle.
+(20) Shen, B; Wang, B; Wang X; Zhou, J, Lin, S; Xiong, L; Liu, S; Yang, X; Shi, Y; Qian, Q; Hao, B; Fan, M; Ji, H; Li, Y; Yan, C; Qian, T. Exploiting Micellization Behavior and Its Solubilization Capacity to Construct Highly Stable and Anti-Self-Discharge Aqueous Electrolytes. Nat. Commun. 2026, Accepted in principle.
 
 (19) Wang, X; Guo, J; Li, Y. Chiral packings in cylinders are ultrasensitive to confinement deformation. Nat. Commun. 2026, 17，6398. [[HTML]](https://www.nature.com/articles/s41467-026-74709-2)
 
