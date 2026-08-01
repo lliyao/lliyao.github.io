@@ -62,7 +62,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2026b</div><img src='images/NatureCommun2026b.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-- Shen, B; Wang, B; Wang X; Zhou, J*, Lin, S; Xiong, L; Liu, S; Yang, X; Shi, Y; Qian, Q; Hao, B; Fan, M; Ji, H; Li, Y*; Yan, C; Qian, T*. Exploiting Micellization Behavior and Its Solubilization Capacity to Construct Highly Stable and Anti-Self-Discharge Aqueous Electrolytes. Nat. Commun. 2026
+- Shen, B; Wang, B; Wang X; Zhou, J, Lin, S; Xiong, L; Liu, S; Yang, X; Shi, Y; Qian, Q; Hao, B; Fan, M; Ji, H; Li, Y; Yan, C; Qian, T. Exploiting Micellization Behavior and Its Solubilization Capacity to Construct Highly Stable and Anti-Self-Discharge Aqueous Electrolytes. Nat. Commun. 2026
 </div>
 </div>
 
