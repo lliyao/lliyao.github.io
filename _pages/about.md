@@ -60,6 +60,11 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2026b</div><img src='images/NatureCommun2026b.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+- Shen, B; Wang, B; Wang X; Zhou, J*, Lin, S; Xiong, L; Liu, S; Yang, X; Shi, Y; Qian, Q; Hao, B; Fan, M; Ji, H; Li, Y*; Yan, C; Qian, T*. Exploiting Micellization Behavior and Its Solubilization Capacity to Construct Highly Stable and Anti-Self-Discharge Aqueous Electrolytes. Nat. Commun. 2026
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NatureCommun2025</div><img src='images/NatureCommun2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -89,6 +94,8 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 📝 Full Publications 
+(20) Shen, B; Wang, B; Wang X; Zhou, J*, Lin, S; Xiong, L; Liu, S; Yang, X; Shi, Y; Qian, Q; Hao, B; Fan, M; Ji, H; Li, Y*; Yan, C; Qian, T*. Exploiting Micellization Behavior and Its Solubilization Capacity to Construct Highly Stable and Anti-Self-Discharge Aqueous Electrolytes. Nat. Commun. 2026, Accepted in principle.
+
 (19) Wang, X; Guo, J; Li, Y. Chiral packings in cylinders are ultrasensitive to confinement deformation. Nat. Commun. 2026, 17，6398. [[HTML]](https://www.nature.com/articles/s41467-026-74709-2)
 
 (18) Yuan, Z; Li, Y. Rounded hard squares confined in a circle. Soft Matter 2026, 22, 3119. [[HTML]](https://doi.org/10.1039/D6SM00008H)
