@@ -150,6 +150,8 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 - 2013-2014 University of Waterloo, Canada, Visiting Researcher
 
 # 💬 Invited Talks
+- 2026, Seminar, Wenzhou Institute, UCAS, Wenzhou, China 
+- 2026, 14th National Conference on Soft and Living Matter Physics， Hangzhou, China
 - 2026, 23th National Conference on Condensed Matter Theory and Statistical Physics, Changchun, China
 - 2026, Seminar, School of Basic Medical Sciences, Tsinghua University, Beijing, China
 - 2026, Soft Matter Seminar, Institute of Physics, Chinese Academy of Science, Beijing, China
