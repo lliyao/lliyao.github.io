@@ -145,6 +145,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 # Professional Appointments
 - 2021-Present Nankai Universtiy, Associate Professor
+- 2025-Present Tianjin No.2 Xinhua High School, Vice Principal (Science)
 - 2020-2021 Università della Svizzera italiana(USI), Researcher
 - 2018-2020 TU Delft, Netherlands, Postdoc
 - 2014-2018 AMOLF, Netherlands, Postdoc
