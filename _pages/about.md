@@ -95,6 +95,8 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 
 # 📝 Full Publications 
+(23)Shen, G.; Li, Y. Positive feedback loops in microtubule organization govern spontaneous cell polarization. Phys. Rev. E 2026. [[HTML]]https://journals.aps.org/pre/accepted/10.1103/x8h1-bpbc
+
 (22) Yang, Y.; Kang, J.; Li, Y.; Ma, X. Mechanical Response of Colloidal Clusters under Uniaxial Tension. Soft Matter 2026. [[HTML]](https://doi.org/10.1039/D6SM00587J)
 
 (21) Liu, W.; Xie, H.; Li, B.; Chen, J. Z. Y.; Li, Y. Defect Organization in Coexisting Hexagonal and Square Lattices on Ellipsoids. J. Chem. Phys. 2026, 165, 154905 [[HTML]](https://doi.org/10.1063/5.0357442)
