@@ -158,6 +158,11 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 - 2013-2014 University of Waterloo, Canada, Visiting Researcher
 
 # 💬 Invited Talks
+2026:
+- 2026, Seminar, School of Phyiscs, Sichuan University, Chengdu, China
+- 2026, Forum of Soft Matter Young Scientists, Chengdu, China
+- 2026, Soft Matter Theory and Simulation Conference, Beijing, China
+- 2026, Fall Meeting of Chinese Physics Society, Changsha, China 
 - 2026, Seminar, Wenzhou Institute, UCAS, Wenzhou, China 
 - 2026, 14th National Conference on Soft and Living Matter Physics， Hangzhou, China
 - 2026, 23th National Conference on Condensed Matter Theory and Statistical Physics, Changchun, China
@@ -171,6 +176,8 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 - 2026, School of Material and Chemistry, Soochow University, Suzhou, China
 - 2026, Department of Physics, Beijing Jiao Tong University, Beijing, China
 - 2026, Department of Physics, Tsinghua University, Beijing, China
+
+2025:
 - 2025, Soft Matter and Biophysics Seminar, Institute of Theoretical Physics, Chinese Academy of Science, Beijing, China
 - 2025, Department of Statistics and Center for complex flows and soft matter research, Southern University of Science and Technology, Shenzhen, Guangdong, China 
 - 2025, China University of Mining and Technology, Xuzhou, Jiangsu, China 
