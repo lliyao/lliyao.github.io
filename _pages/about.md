@@ -159,7 +159,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 
 # 💬 Invited Talks
 2026:
-- 2026, Seminar, School of Phyiscs, Sichuan University, Chengdu, China
+- 2026, Seminar, School of Physics, Sichuan University, Chengdu, China
 - 2026, Forum of Soft Matter Young Scientists, Chengdu, China
 - 2026, Soft Matter Theory and Simulation Conference, Beijing, China
 - 2026, Fall Meeting of Chinese Physics Society, Changsha, China 
