@@ -163,6 +163,7 @@ Applications will be reviewed on a rolling basis until the positions are filled.
 - 2026, Forum of Soft Matter Young Scientists, Chengdu, China
 - 2026, Soft Matter Theory and Simulation Conference, Beijing, China
 - 2026, Fall Meeting of Chinese Physics Society, Changsha, China 
+- 2026, Seminar, School of Mathematics, Tiangong University, Tianjin China
 - 2026, Seminar, Wenzhou Institute, UCAS, Wenzhou, China 
 - 2026, 14th National Conference on Soft and Living Matter Physics， Hangzhou, China
 - 2026, 23th National Conference on Condensed Matter Theory and Statistical Physics, Changchun, China
